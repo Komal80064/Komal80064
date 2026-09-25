@@ -120,14 +120,6 @@ I'm continuously improving my understanding of **full-stack development, system 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komal80064&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal80064&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
