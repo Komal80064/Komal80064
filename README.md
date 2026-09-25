@@ -95,7 +95,7 @@ A recruiter-focused developer portfolio showcasing my skills, projects, and expe
 
 **Tech:** React.js • JavaScript • Tailwind CSS • Motion • EmailJS
 
-🔗 **Portfolio:** https://
+🔗 **Portfolio:** https://komal-portfolio-xi.vercel.app
 🔗 **GitHub:** https://github.com/Komal80064
 
 ---
